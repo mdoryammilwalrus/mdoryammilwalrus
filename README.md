@@ -2,6 +2,6 @@
 Welcome to my profile!
 Right now, there is nothing here. There may be something in the future.
 ## Programmer Humor
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Projects
-<a href="https://mdoryammilwalrus.github.io/">Website</a>
+[Website](https://mdoryammilwalrus.github.io/)
