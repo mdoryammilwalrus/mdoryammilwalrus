@@ -8,5 +8,7 @@ Right now, there is nothing here. There may be something in the future.
 ![os](https://img.shields.io/badge/OS-Windows-lightblue/?logo=microsoft)
 ![html](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)
 ![markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
+![js](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
+![java](https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=red)
 ## Projects
 [Website](https://mdoryammilwalrus.github.io/)
