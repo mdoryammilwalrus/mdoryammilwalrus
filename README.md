@@ -10,4 +10,3 @@ Right now, there is nothing here. There may be something in the future.
 ![markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
 ## Projects
 [Website](https://mdoryammilwalrus.github.io/)
-![image]()
