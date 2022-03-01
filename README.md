@@ -3,7 +3,7 @@ Welcome to my profile!
 Right now, there is nothing here. There may be something in the future.
 
   <p align="center">
-  <img alig src="ttps://github-profile-trophy.vercel.app/?username=mdoryammilwalrus&no-bg=true" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=mdoryammilwalrus&no-bg=true" />
 </p>
 
 
