@@ -1,15 +1,17 @@
 # mdoryammilwalrus's profile
 Welcome to my profile!
 Right now, there is nothing here. There may be something in the future.
-<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdoryammilwalrus&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Trophy" />
-  </a>
+
+  <p align="center">
+  <img alig src="ttps://github-profile-trophy.vercel.app/?username=mdoryammilwalrus&no-bg=true" />
+</p>
 
 
 ## Programmer Humor
-<a align="center">
+
+<p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  </a>
+  </p>
 
 ## Some things
 ![os](https://img.shields.io/badge/OS-Windows-lightblue/?logo=microsoft)
@@ -18,6 +20,7 @@ Right now, there is nothing here. There may be something in the future.
 ![js](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
 ![java](https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=red)
 ## Projects
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=mdoryammilwalrus.github.io" />
 </a>
