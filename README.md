@@ -12,4 +12,6 @@ Right now, there is nothing here. There may be something in the future.
 ![js](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
 ![java](https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=red)
 ## Projects
-[Website](https://mdoryammilwalrus.github.io/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=mdoryammilwalrus.github.io" />
+</a>
