@@ -1,8 +1,7 @@
 # mdoryammilwalrus's profile
 Welcome to my profile!
 Right now, there is nothing here. There may be something in the future.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdoryammilwalrus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdoryammilwalrus&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ## Programmer Humor
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Some things
