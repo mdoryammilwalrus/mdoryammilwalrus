@@ -14,12 +14,14 @@ Right now, there is nothing here. There may be something in the future.
   </p>
 
 ## Some things
-![os](https://img.shields.io/badge/OS-Windows-lightblue/?logo=microsoft)
-![html](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)
-![markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
-![js](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
-![java](https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=red)
+![os](https://img.shields.io/badge/OS-Windows-lightblue/?logo=microsoft&style=for-the-badge)
+![html](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange&style=for-the-badge)
+![markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown&style=for-the-badge)
+![js](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow&style=for-the-badge)
+![java](https://img.shields.io/badge/Knows-Java-blue/?logo=java&logoColor=warning&color=red&style=for-the-badge)
 ## Projects
+
+&style=for-the-badge
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=mdoryammilwalrus.github.io" />
