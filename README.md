@@ -31,3 +31,6 @@ Hi! Well, you found this litle bit of text. Now what?
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=mdoryammilwalrus.github.io" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=scratch-world-map" />
+</a>
