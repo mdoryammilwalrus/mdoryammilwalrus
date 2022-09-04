@@ -1,3 +1,7 @@
+<!--
+Hi! Well, you found this litle bit of text. Now what?
+-->
+
 ![mdoryammilwalrus's profile](https://readme-typing-svg.herokuapp.com?lines=Hello!+Welcome+to+my+profile!)
 
 ## Programmer Humor
@@ -22,15 +26,10 @@
 ![GitHub Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=mdoryammilwalrus&show_icons=true&locale=en&langs_count=10&layout=compact)
 
 <!--
+May use this
+https://github.com/anuraghazra/github-readme-stats
 
-Hi! Well, you found this litle bit of text. Now what?
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=REPO_NAME" />
+</a>
 -->
-
-## Projects
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=mdoryammilwalrus.github.io" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdoryammilwalrus&repo=scratch-world-map" />
-</a>
